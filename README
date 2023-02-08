@@ -13,7 +13,7 @@ Requereix tenir instal·lat previament:
 
 	mkdir m08uf1 (si ja existeix, no cal crear-lo)
 	cd m08uf1
-	git clone https://github.com/dacomo2122daw2/m08uf1ex1.git
+	git clone https://github.com/dcolla2/m08uf1ex1.git
 	cd m08uf1ex1
 
 
